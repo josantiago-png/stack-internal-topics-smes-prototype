@@ -1,0 +1,1 @@
+import"./BxG5rCjX.js";import{c as o,r as s}from"./BHXETinu.js";import{a as i,f as t}from"./Doo-DDvF.js";import{s as m}from"./ChDIVtk4.js";var d=t('<div class="page-wrapper svelte-18k7gw6"><!></div>');function l(a,p){var r=d(),e=o(r);m(e,()=>p.children),s(r),i(a,r)}export{l as P};
