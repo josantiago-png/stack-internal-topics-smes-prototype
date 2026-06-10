@@ -1,0 +1,1 @@
+import"../chunks/BxG5rCjX.js";import"../chunks/8eo8wfh5.js";import{a as p,f as e}from"../chunks/CJebljq8.js";import{P as s}from"../chunks/DeDE_Bct.js";var t=e('<h1 class="fs-headline1 fw-bold fc-black-900">Usage</h1>');function c(o){s(o,{children:(a,m)=>{var r=t();p(a,r)}})}export{c as component};
