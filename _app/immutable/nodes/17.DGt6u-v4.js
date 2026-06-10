@@ -1,0 +1,1 @@
+import"../chunks/BxG5rCjX.js";import"../chunks/8eo8wfh5.js";import{a as p,f as e}from"../chunks/CJebljq8.js";import{P as s}from"../chunks/DeDE_Bct.js";var t=e('<h1 class="fs-headline1 fw-bold fc-black-900">Policies</h1>');function n(o){s(o,{children:(r,i)=>{var a=t();p(r,a)}})}export{n as component};
