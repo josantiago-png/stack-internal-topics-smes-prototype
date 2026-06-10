@@ -1,0 +1,7 @@
+{
+  "id": "web",
+  "name": "Web UI",
+  "description": "Stack Internal web interface with topbar, sidebars, and Stacks design system",
+  "tags": ["svelte", "web", "stacks", "ui"],
+  "order": 1
+}

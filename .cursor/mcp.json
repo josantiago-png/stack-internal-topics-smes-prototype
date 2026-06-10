@@ -1,0 +1,16 @@
+{
+  "mcpServers": {
+    "stacks-mcp-server": {
+      "type": "http",
+      "url": "https://stacksmcp.int.stackoverflow.net/mcp"
+    },
+    "svelte": {
+      "url": "https://mcp.svelte.dev/mcp"
+    },
+    "figma": {
+      "url": "https://mcp.figma.com/mcp",
+      "headers": {}
+    }
+  }
+}
+

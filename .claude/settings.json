@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__playwright__browser_navigate",
+      "mcp__playwright__browser_take_screenshot",
+      "mcp__playwright__browser_snapshot",
+      "mcp__playwright__browser_resize",
+      "mcp__playwright__browser_click",
+      "mcp__playwright__browser_console_messages",
+      "mcp__playwright__browser_close",
+      "mcp__stacks__get_stacks_documentation",
+      "mcp__atlassian__fetch",
+      "mcp__atlassian__searchJiraIssuesUsingJql",
+      "mcp__atlassian__search",
+      "Bash(curl -s *)",
+      "Bash(npx svelte-check *)",
+      "Bash(lsof *)"
+    ]
+  }
+}
