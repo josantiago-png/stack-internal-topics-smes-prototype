@@ -1,0 +1,1 @@
+import"../chunks/BxG5rCjX.js";import"../chunks/8eo8wfh5.js";import{a as e,f as r}from"../chunks/CJebljq8.js";var s=r('<div class="placeholder-page svelte-19fgnho"><h1 class="fs-headline1 fw-normal fc-black-600">uaccess</h1></div>');function t(a){var o=s();e(a,o)}export{t as component};
